@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\czz\vtkBuild\Examples\ReadUnknownTypeXMLFile\ReadUnknownTypeXMLFile\ReadUnknownTypeXMLFile.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\czz\vtkBuild\Examples\ReadUnknownTypeXMLFile\ReadUnknownTypeXMLFile\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BCFD27D9-F2A0-3A20-9C05-388CD673DFF2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

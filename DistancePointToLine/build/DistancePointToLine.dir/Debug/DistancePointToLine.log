@@ -1,0 +1,13 @@
+﻿生成启动时间为 2020/7/2 12:45:27。
+     1>项目“F:\czz\vtkBuild\Examples\DistancePointToLine\build\DistancePointToLine.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IF:\czz\vtkInstall\bin /IF:\czz\vtkBuild\Common\Core /I"F:\czz\VTK-7.1.1\Common\Core" /IF:\czz\vtkBuild\Utilities\KWIML /I"F:\czz\VTK-7.1.1\Utilities\KWIML" /IF:\czz\vtkBuild\Utilities\KWSys /I"F:\czz\VTK-7.1.1\Utilities\KWSys" /IF:\czz\vtkBuild\Common\DataModel /I"F:\czz\VTK-7.1.1\Common\DataModel" /IF:\czz\vtkBuild\Common\Math /I"F:\czz\VTK-7.1.1\Common\Math" /IF:\czz\vtkBuild\Common\Misc /I"F:\czz\VTK-7.1.1\Common\Misc" /IF:\czz\vtkBuild\Common\System /I"F:\czz\VTK-7.1.1\Common\System" /IF:\czz\vtkBuild\Common\Transforms /I"F:\czz\VTK-7.1.1\Common\Transforms" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"DistancePointToLine.dir\Debug\\" /Fd"DistancePointToLine.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt F:\czz\vtkBuild\Examples\DistancePointToLine\DistancePointToLine.cxx
+         DistancePointToLine.cxx
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\czz\vtkBuild\Examples\DistancePointToLine\build\Debug\DistancePointToLine.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "F:\czz\vtkBuild\lib\Debug\vtkCommonDataModel-7.1.lib" "F:\czz\vtkBuild\lib\Debug\vtkCommonMisc-7.1.lib" "F:\czz\vtkBuild\lib\Debug\vtkCommonSystem-7.1.lib" "F:\czz\vtkBuild\lib\Debug\vtkCommonTransforms-7.1.lib" "F:\czz\vtkBuild\lib\Debug\vtksys-7.1.lib" ws2_32.lib Psapi.lib "F:\czz\vtkBuild\lib\Debug\vtkCommonMath-7.1.lib" "F:\czz\vtkBuild\lib\Debug\vtkCommonCore-7.1.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:/czz/vtkBuild/Examples/DistancePointToLine/build/Debug/DistancePointToLine.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:/czz/vtkBuild/Examples/DistancePointToLine/build/Debug/DistancePointToLine.lib" /MACHINE:X64  /machine:x64 DistancePointToLine.dir\Debug\DistancePointToLine.obj
+         DistancePointToLine.vcxproj -> F:\czz\vtkBuild\Examples\DistancePointToLine\build\Debug\DistancePointToLine.exe
+     1>已完成生成项目“F:\czz\vtkBuild\Examples\DistancePointToLine\build\DistancePointToLine.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.61

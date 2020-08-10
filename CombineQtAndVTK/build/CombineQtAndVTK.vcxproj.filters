@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\czz\vtkBuild\Examples\CombineQtAndVTK\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\czz\vtkBuild\Examples\CombineQtAndVTK\ProjectMainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\czz\vtkBuild\Examples\CombineQtAndVTK\build\moc_ProjectMainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\czz\vtkBuild\Examples\CombineQtAndVTK\build\ui_ProjectMainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ProjectMainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\czz\vtkBuild\Examples\CombineQtAndVTK\CMakeLists.txt" />
+    <CustomBuild Include="F:\czz\vtkBuild\Examples\CombineQtAndVTK\ProjectMainWindow.ui" />
+    <CustomBuild Include="F:\czz\vtkBuild\Examples\CombineQtAndVTK\build\CMakeFiles\672f22424c959956924313186485b049\moc_ProjectMainWindow.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E397215A-5648-3A38-8661-A91F82AF709B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{39C75338-EF09-394C-A612-E8D5ECD20CD7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FE4572E6-B775-3A3B-B1A6-774F3C52A9B4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

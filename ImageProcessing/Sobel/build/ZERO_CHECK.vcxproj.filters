@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\czz\vtkBuild\Examples\ImageProcessing\Sobel\build\CMakeFiles\24642200345c14a9f644bbbc04deded4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{58B4CA13-5F4B-3925-8F62-E4477EC0F5B3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

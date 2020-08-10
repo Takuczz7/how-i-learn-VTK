@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\czz\vtkBuild\Examples\ImageProcessing\RegionGrow\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\czz\vtkBuild\Examples\ImageProcessing\RegionGrow\MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\czz\vtkBuild\Examples\ImageProcessing\RegionGrow\build\moc_MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\czz\vtkBuild\Examples\ImageProcessing\RegionGrow\build\ui_MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\czz\vtkBuild\Examples\ImageProcessing\RegionGrow\CMakeLists.txt" />
+    <CustomBuild Include="F:\czz\vtkBuild\Examples\ImageProcessing\RegionGrow\MainWindow.ui" />
+    <CustomBuild Include="F:\czz\vtkBuild\Examples\ImageProcessing\RegionGrow\build\CMakeFiles\36e79dcbfc6e108abebfb4ab43215e11\moc_MainWindow.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2203E163-28D2-33C5-98DC-3A7659F6A918}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EC6C6398-9F6C-3068-9468-4972AFFF1CAD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3F15AEE6-A73F-351B-8039-0C4949C8EADA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\czz\vtkBuild\Examples\DistancePointToLine\build\CMakeFiles\0ebb3e05e5fedef810cb6cf2a4d1989c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DFDD0E99-7E37-38FD-8F8D-A1BC402236B9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

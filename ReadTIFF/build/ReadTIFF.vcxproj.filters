@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\czz\vtkBuild\Examples\ReadTIFF\ReadTIFF.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\czz\vtkBuild\Examples\ReadTIFF\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1FFFBF5B-6615-317B-B63A-A9D8DDD9C1B2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

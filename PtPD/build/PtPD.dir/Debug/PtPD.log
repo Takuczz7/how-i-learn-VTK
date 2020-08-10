@@ -1,0 +1,11 @@
+﻿生成启动时间为 2020/7/10 16:48:42。
+     1>项目“F:\czz\vtkBuild\Examples\PtPD\build\PtPD.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IF:\czz\vtkBuild\Common\Core /I"F:\czz\VTK-7.1.1\Common\Core" /IF:\czz\vtkBuild\Utilities\KWIML /I"F:\czz\VTK-7.1.1\Utilities\KWIML" /IF:\czz\vtkBuild\Utilities\KWSys /I"F:\czz\VTK-7.1.1\Utilities\KWSys" /IF:\czz\vtkBuild\Common\DataModel /I"F:\czz\VTK-7.1.1\Common\DataModel" /IF:\czz\vtkBuild\Common\Math /I"F:\czz\VTK-7.1.1\Common\Math" /IF:\czz\vtkBuild\Common\Misc /I"F:\czz\VTK-7.1.1\Common\Misc" /IF:\czz\vtkBuild\Common\System /I"F:\czz\VTK-7.1.1\Common\System" /IF:\czz\vtkBuild\Common\Transforms /I"F:\czz\VTK-7.1.1\Common\Transforms" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"PtPD.dir\Debug\\" /Fd"PtPD.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt F:\czz\vtkBuild\Examples\PtPD\PtPD.cpp
+         PtPD.cpp
+     1>F:\czz\vtkBuild\Examples\PtPD\PtPD.cpp(2): fatal error C1083: 无法打开包括文件: “vtkRendererCollection.h”: No such file or directory
+     1>已完成生成项目“F:\czz\vtkBuild\Examples\PtPD\build\PtPD.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.84

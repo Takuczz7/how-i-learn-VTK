@@ -1,0 +1,3 @@
+F:/czz/vtkBuild/Examples/Slice/build/CMakeFiles/Slice.dir
+F:/czz/vtkBuild/Examples/Slice/build/CMakeFiles/ALL_BUILD.dir
+F:/czz/vtkBuild/Examples/Slice/build/CMakeFiles/ZERO_CHECK.dir

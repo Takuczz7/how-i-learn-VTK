@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\czz\vtkBuild\Examples\MPR\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\czz\vtkBuild\Examples\MPR\MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\czz\vtkBuild\Examples\MPR\build\moc_MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\czz\vtkBuild\Examples\MPR\build\ui_MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\czz\vtkBuild\Examples\MPR\CMakeLists.txt" />
+    <CustomBuild Include="F:\czz\vtkBuild\Examples\MPR\MainWindow.ui" />
+    <CustomBuild Include="F:\czz\vtkBuild\Examples\MPR\build\CMakeFiles\c94392956f7c2ba62f787cb2e893d53b\moc_MainWindow.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AB0C2478-1894-35C6-8C01-22A9F4ECFAA3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{045A0A73-BCE3-34C6-A78F-582A767236C0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3956F590-B447-3C15-B174-AAEDBCCAAE6A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

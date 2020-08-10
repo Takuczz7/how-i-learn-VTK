@@ -1,0 +1,3 @@
+F:/czz/vtkBuild/Examples/PickPixel/build/CMakeFiles/PickPixel.dir
+F:/czz/vtkBuild/Examples/PickPixel/build/CMakeFiles/ALL_BUILD.dir
+F:/czz/vtkBuild/Examples/PickPixel/build/CMakeFiles/ZERO_CHECK.dir

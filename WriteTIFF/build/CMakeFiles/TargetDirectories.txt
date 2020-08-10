@@ -1,0 +1,3 @@
+F:/czz/vtkBuild/Examples/WriteTIFF/build/CMakeFiles/WriteTIFF.dir
+F:/czz/vtkBuild/Examples/WriteTIFF/build/CMakeFiles/ALL_BUILD.dir
+F:/czz/vtkBuild/Examples/WriteTIFF/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,3 @@
+F:/czz/vtkBuild/Examples/ImageProcessing/Sobel/build/CMakeFiles/Sobel.dir
+F:/czz/vtkBuild/Examples/ImageProcessing/Sobel/build/CMakeFiles/ALL_BUILD.dir
+F:/czz/vtkBuild/Examples/ImageProcessing/Sobel/build/CMakeFiles/ZERO_CHECK.dir
