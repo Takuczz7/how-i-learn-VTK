@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\czz\PTEST\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\czz\PTEST\MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\czz\PTEST\build\moc_MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\czz\PTEST\build\ui_MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\czz\PTEST\CMakeLists.txt" />
+    <CustomBuild Include="F:\czz\PTEST\MainWindow.ui" />
+    <CustomBuild Include="F:\czz\PTEST\build\CMakeFiles\a2388f4afe423f12870934568ff91252\moc_MainWindow.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BD38ED7B-738E-362F-9AF6-AB99CF986CB4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{99FF5C6F-220E-3130-8D10-BA7A7357DC34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D12B25BD-97F1-3FA0-99D8-69BF9802F04D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
